@@ -1,0 +1,14 @@
+c:\Users\alice.grissom\Prog2\Näsan över E\01 If-satser, loopar, datatyper\bin\Debug\net8.0\01 If-satser, loopar, datatyper.exe
+c:\Users\alice.grissom\Prog2\Näsan över E\01 If-satser, loopar, datatyper\bin\Debug\net8.0\01 If-satser, loopar, datatyper.deps.json
+c:\Users\alice.grissom\Prog2\Näsan över E\01 If-satser, loopar, datatyper\bin\Debug\net8.0\01 If-satser, loopar, datatyper.runtimeconfig.json
+c:\Users\alice.grissom\Prog2\Näsan över E\01 If-satser, loopar, datatyper\bin\Debug\net8.0\01 If-satser, loopar, datatyper.dll
+c:\Users\alice.grissom\Prog2\Näsan över E\01 If-satser, loopar, datatyper\bin\Debug\net8.0\01 If-satser, loopar, datatyper.pdb
+c:\Users\alice.grissom\Prog2\Näsan över E\01 If-satser, loopar, datatyper\obj\Debug\net8.0\01 If-satser, loopar, datatyper.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alice.grissom\Prog2\Näsan över E\01 If-satser, loopar, datatyper\obj\Debug\net8.0\01 If-satser, loopar, datatyper.AssemblyInfoInputs.cache
+c:\Users\alice.grissom\Prog2\Näsan över E\01 If-satser, loopar, datatyper\obj\Debug\net8.0\01 If-satser, loopar, datatyper.AssemblyInfo.cs
+c:\Users\alice.grissom\Prog2\Näsan över E\01 If-satser, loopar, datatyper\obj\Debug\net8.0\01 If-satser, loopar, datatyper.csproj.CoreCompileInputs.cache
+c:\Users\alice.grissom\Prog2\Näsan över E\01 If-satser, loopar, datatyper\obj\Debug\net8.0\01 If-satser, loopar, datatyper.dll
+c:\Users\alice.grissom\Prog2\Näsan över E\01 If-satser, loopar, datatyper\obj\Debug\net8.0\refint\01 If-satser, loopar, datatyper.dll
+c:\Users\alice.grissom\Prog2\Näsan över E\01 If-satser, loopar, datatyper\obj\Debug\net8.0\01 If-satser, loopar, datatyper.pdb
+c:\Users\alice.grissom\Prog2\Näsan över E\01 If-satser, loopar, datatyper\obj\Debug\net8.0\01 If-satser, loopar, datatyper.genruntimeconfig.cache
+c:\Users\alice.grissom\Prog2\Näsan över E\01 If-satser, loopar, datatyper\obj\Debug\net8.0\ref\01 If-satser, loopar, datatyper.dll
